@@ -1,6 +1,28 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>.NET-based projects to strengthen my development skills.<br><br>👯 I’m looking to collaborate on:<br>Full-stack applications and API development.<br><br>🤝 I’m looking for help with:<br>Project optimization, architecture improvements, and best practices.<br><br>🌱 I’m currently learning:<br>Advanced .NET, scalability, and software architecture.<br><br>💬 Ask me about:<br>.NET, full-stack development, APIs, databases, and project planning.<br><br>⚡ Fun fact:<br>I enjoy building real-world projects to learn and improve continuously.
+# Héctor Martínez | Teto
+### 🚀 Systems Engineer | Full Stack Developer | AI Engineer
 
+<p align="left">
+  <a href="https://my-portafolio-teto.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔍%20Mira%20mi%20Portafolio-FF5733?style=for-the-badge&logo=react&logoColor=white" alt="Portafolio" />
+  </a>
+</p>
+
+---
+
+# 💫 About Me:
+🔭 **I’m currently working on:** .NET-based projects to strengthen my development skills.
+
+👯 **I’m looking to collaborate on:** Full-stack applications and API development.
+
+🤝 **I’m looking for help with:** Project optimization, architecture improvements, and best practices.
+
+🌱 **I’m currently learning:** Advanced .NET, scalability, and software architecture.
+
+💬 **Ask me about:** .NET, full-stack development, APIs, databases, and project planning.
+
+⚡ **Fun fact:** I enjoy building real-world projects to learn and improve continuously.
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ector.martinez.507679)
