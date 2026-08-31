@@ -1,5 +1,5 @@
 # Héctor Martínez | Teto
-### 🚀 Systems Engineer | Full Stack Developer | AI Engineer
+### 🚀 Systems Engineer | Full Stack Developer | .NET Developer
 
 <p align="left">
   <a href="https://my-portafolio-teto.vercel.app/" target="_blank">
